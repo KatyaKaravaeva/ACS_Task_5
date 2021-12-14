@@ -1,0 +1,3 @@
+/home/katya/CLionProjects/ACS_HW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/katya/CLionProjects/ACS_HW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/katya/CLionProjects/ACS_HW5/cmake-build-debug/CMakeFiles/ACS_HW5.dir
